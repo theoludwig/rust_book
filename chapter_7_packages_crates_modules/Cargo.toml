@@ -1,0 +1,6 @@
+[package]
+name = "chapter_7_packages_crates_modules"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]

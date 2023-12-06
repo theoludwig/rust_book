@@ -1,0 +1,10 @@
+[package]
+name = "chapter_12_minigrep"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.0.4"
+
+[dev-dependencies]
+assert_cmd = "2.0.12"

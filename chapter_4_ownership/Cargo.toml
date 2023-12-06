@@ -1,0 +1,6 @@
+[package]
+name = "chapter_4_ownership"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]

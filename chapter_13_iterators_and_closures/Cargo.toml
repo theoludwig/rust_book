@@ -1,0 +1,7 @@
+[package]
+name = "chapter_13_iterators_and_closures"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+strum = { version = "0.25", features = ["derive"] }

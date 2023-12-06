@@ -1,0 +1,6 @@
+[package]
+name = "chapter_8_common_collections"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]

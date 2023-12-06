@@ -1,0 +1,6 @@
+[package]
+name = "chapter_10_generics_traits_lifetimes"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
