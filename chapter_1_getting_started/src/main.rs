@@ -1,5 +1,7 @@
 // Scope of a program => prelude
 // If a type you want to use isn't in the prelude, you have to bring that type into scope explicitly with a `use` statement.
+// Sometimes it's best not to use the prelude to ->avoid name conflicts<-when importing other crates, or especially when using
+// common data structures for instance HashMaps because of ->performance reasons<-, so we tend to use std::collections::BTreeMap instead
 use std::io::{self, Write};
 
 /**
