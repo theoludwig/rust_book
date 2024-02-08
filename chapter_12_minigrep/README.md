@@ -1,4 +1,4 @@
-# An I/O Project: Building a Command Line Program: `minigrep`
+# 12. An I/O Project: Building a Command Line Program: `minigrep`
 
 Command line tool that interacts with file and command line input/output to practice some of the Rust concepts we've learned so far.
 

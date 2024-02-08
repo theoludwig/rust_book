@@ -14,7 +14,7 @@ Rust keeps track of who can read and write to memory. It knows when the program 
 
 - [Website](https://www.rust-lang.org/)
 - Local Documentation: `rustup doc`
-- Rust version used: v1.74.0 (`rustc --version`)
+- Rust version used: v1.75.0 (`rustc --version`)
 
 ## Summary
 
@@ -31,3 +31,4 @@ Rust keeps track of who can read and write to memory. It knows when the program 
 11. [Testing](./chapter_11_testing)
 12. [An I/O Project: Building a Command Line Program: `minigrep`](./chapter_12_minigrep)
 13. [Functional Language Features: Iterators and Closures](./chapter_13_iterators_and_closures)
+14. [More About Cargo and Crates.io](./chapter_14_cargo_and_crates)
